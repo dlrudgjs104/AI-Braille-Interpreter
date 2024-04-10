@@ -1,0 +1,4 @@
+<사용법> 
+1.자신의  localhost  DB에 family_relationship_certificate_db 스키마를 생성한다.
+2. 해당 파일 Controller에 있는 "user" , "0000" 에 자신 id pw 입력 (ex root , xxxx) 
+3. Main에서 실행.
