@@ -1,0 +1,15 @@
+<resources>
+<string name="app_name">Braille Interpreter</string>
+<string name="character_unit"/>
+<string-array name="character_unit_array">
+    <item>한글자</item>
+    <item>단어</item>
+    <item>문장</item>
+</string-array>
+<string-array name="language_array">
+    <item>한국어</item>
+    <item>English</item>
+    <item>중국어</item>
+    <item>일본어</item>
+</string-array>
+</resources>

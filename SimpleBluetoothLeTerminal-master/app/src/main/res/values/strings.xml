@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Braille Interpreter</string>
+    <string name="devices">Bluetooth LE Devices</string>
+
+    <string name="bluetooth_permission_title">Bluetooth permission</string>
+    <string name="bluetooth_permission_grant">Bluetooth permission is required by this App. Please grant in next dialog.</string>
+    <string name="bluetooth_permission_denied">Bluetooth permission was permanently denied. You have to enable permission \"%s\" in App settings.</string>
+
+    <string name="location_permission_title">Location permission</string>
+    <string name="location_permission_grant">This app does not use location information, but scanning for Bluetooth LE devices requires this permission. Please grant in next dialog.</string>
+    <string name="location_permission_denied">As location permission has not been granted, this app cannot scan for Bluetooth LE devices.</string>
+
+    <string name="pairing_request">PAIRING requested\n-> Perform pairing steps. Connect again</string>
+
+    <string name="character_unit"/>
+    <string-array name="character_unit_array">
+        <item>한글자</item>
+        <item>단어</item>
+        <item>문장</item>
+    </string-array><string-array name="speachrate_unit_array">
+    <item>기본</item>
+    <item>0.5배</item>
+    <item>2배</item>
+    <item>3배</item>
+</string-array>
+    <string-array name="language_array">
+        <item>한국어</item>
+        <item>English</item>
+        <item>중국어</item>
+        <item>일본어</item>
+    </string-array>
+</resources>
